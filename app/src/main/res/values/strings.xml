@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VStory</string>
+    <string name="image_icon_apps">Image Icon Apps</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="login">Login</string>
+</resources>
